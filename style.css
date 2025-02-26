@@ -1,0 +1,28 @@
+h1 {
+    background-color: #c7d8ff;
+    text-align: center;
+    padding: 10px; 
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+}
+
+h2 {
+    background-color: #d0eefc;
+    text-align: center;
+    padding: 10px; 
+}
+
+li {
+    font-size: 18px;
+}
+
+body {
+    background-color: rgb(251, 251, 242) !important;
+}
+
+a {
+    font-size: 18px;
+}
